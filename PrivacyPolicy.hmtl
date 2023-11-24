@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - KeepManager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #555;
+        }
+
+        p {
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Privacy Policy for KeepManager</h1>
+
+    <h2>Information Collection and Use</h2>
+    <p>We do not collect or store any personal information from users. All data entered by users, including reminders, to-do lists, and expenses, is stored locally on the user's device and is not accessed or collected by [Your Company Name].</p>
+
+    <h2>Data Storage</h2>
+    <p>The app stores user-generated data (reminders, to-do lists, expenses) on the user's device only. [Your Company Name] does not have access to, nor does it store, this information on external servers.</p>
+
+    <h2>Permissions</h2>
+    <p>The app may request certain permissions to function properly (e.g., storage permissions for data storage on the device). These permissions are solely used for the intended functionality of the app and are not shared with any third parties.</p>
+
+    <h2>Security</h2>
+    <p>[Your Company Name] takes reasonable measures to protect user data stored on the device. However, it's important for users to implement device security practices, such as using passwords or biometric features, to safeguard their information.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>[Your Company Name] may update this Privacy Policy from time to time. Users will be notified of any significant changes. It is recommended that users review this Privacy Policy periodically.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Information].</p>
+</body>
+
+</html>
